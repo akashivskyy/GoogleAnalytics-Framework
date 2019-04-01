@@ -21,3 +21,4 @@
 #import <GoogleAnalytics/TAGDataLayer.h>
 #import <GoogleAnalytics/TAGLogger.h>
 #import <GoogleAnalytics/TAGManager.h>
+#import <GoogleAnalytics/TAGCustomFunction.h>
